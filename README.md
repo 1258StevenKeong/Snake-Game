@@ -7,3 +7,4 @@ Software Development System: Unity Universal 2D.
 Required pakcages:N/A.
 Demo game video : https://youtu.be/5PzslyzDmiU
 Download link: https://drive.google.com/file/d/13qwctxftAuvEC8rfnqVO7TpBWZknCyVt/view?usp=drive_link
+Final tream project: Final Project.docx
